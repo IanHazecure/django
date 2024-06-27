@@ -9,6 +9,7 @@
     box-sizing: border-box;
 }
 
+
 .blur{
     position: absolute;
     box-shadow: 0 0 1000px 60px #00ff6a;
@@ -215,7 +216,7 @@ header .shopping span{
     border: none;
 }
 .listCard .count{
-    margin: 0 10px;
+    margin: 10px 10px;
 }
 
 
